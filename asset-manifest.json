@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Realmovie/static/css/main.c3a3c7fb.css",
+    "main.js": "/Realmovie/static/js/main.380c9a5d.js",
+    "static/js/453.7bf11acd.chunk.js": "/Realmovie/static/js/453.7bf11acd.chunk.js",
+    "index.html": "/Realmovie/index.html",
+    "main.c3a3c7fb.css.map": "/Realmovie/static/css/main.c3a3c7fb.css.map",
+    "main.380c9a5d.js.map": "/Realmovie/static/js/main.380c9a5d.js.map",
+    "453.7bf11acd.chunk.js.map": "/Realmovie/static/js/453.7bf11acd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3a3c7fb.css",
+    "static/js/main.380c9a5d.js"
+  ]
+}
